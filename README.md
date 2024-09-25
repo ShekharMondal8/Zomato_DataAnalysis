@@ -18,3 +18,4 @@ Once the data was clean and structured, I created several dynamic visualizations
 5. Map Visualization : I utilized a map to display the total number of restaurants by city, making geographic trends easily identifiable. 🗺️
 6. Tree map : This visualization shows the total number of restaurants by cuisine type, highlighting the diversity in dining options available. 🌐
 7. Additional Bar Chart : Finally, I created another bar chart to represent the total number of restaurants by city, further emphasizing the dining landscape across various locations. 📉
+<img align="middle"alt="coding"width="400"scr=![zomato 2](https://github.com/user-attachments/assets/cc146380-f92c-4b0f-a25e-4d3ea3f701f2)
